@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 123.97141 97.588438">
+    <g transform="translate(-264 -285)">
+        <path fill="#272200" fill-rule="evenodd" d="m384 332c-26.7-32.1-68.1-59.2-103-32.4-26.7 24.4-13.1 68.9 16.1 77.5 40.7 10 65.5-18.2 86.5-45.1z"/>
+        <ellipse cx="320" cy="336" fill="#f6fb05" rx="38.9" ry="37.4"/>
+        <ellipse cx="321" cy="337" rx="14.9" ry="15.7"/>
+        <ellipse cx="409" cy="239" fill-opacity=".304" rx="45.4" ry="18.2" transform="matrix(.976 .217 -.313 .950 0 0)"/>
+        <ellipse cx="327" cy="328" fill="#fff" fill-opacity=".968" rx="3.15" ry="3.43"/>
+    </g>
+</svg>
