@@ -4,81 +4,30 @@
 
 ## JAM Stack - Jersey Web Dev Meetup 20180504
 
-### Slide content
+### Resources
 
-#### Intro
-
-#### What is JAM Stack?
-
-* Stack of jam?
-* Acronym definition \* We did it, nested acronyms
-* Michael's secret stuff
-
-#### JAM Stack vs 90's web
-
-* Space jam website
-* Is it just water?
-* JavaScript and API
-
-#### Why should I give myself the trouble?
-
-* Load speeds
-  * No DB querying
-  * No template parsing for markup build
-* Separation of concerns
-  * Front-end takes care of all presentation
-  * Centralised/focused UX design
-* Frequency of content update
-  * How often do we really update ALL our pages?
-  * Frequently changing content can use APIs
-* No need to implement everywhere
-  * JAM Stack your block
-  * User authenticated areas may remain non-JAM
-  * Progressive migration to JAM
-* Tie in with service workers, SPA's and animated page transitions
-  * Offline support
-  * Push update to service workers on build time
-  * [Page transitions make UX sleek (like on native apps)](https://page-transitions.com/)
-* Caching
-  * Cache some page assets "forever"
-  * JS will fetch dynamic content from APIs after all
-
-#### Caveats
-
-* E-commerce and extremely time sensitive content
-* Must implement SSR
-* Ensure no JS support if relevant and SEO best practices
-* Authenticated areas of your app
-  * SSR the shell/chrome
-  * Pull into after content loaded \* Show placeholder markup
-
-#### How can I jump in the jam Stack hype train?
-
-* React
-  * Gatsby
-  * List integrations \* Next
-* Vue
-  * Nuxt
-  * This presentation XD
-* Jekyll \* Ruby
-* Hugo \* Go Lang
-* Every static site generator under the sun \* Link to website
-* WordPress static?
-* Netlify CMS \* 💦💦💦💦💦
-* Prerender.io
-* Build your own
-  * Total freedom
-  * NIH syndrome
-
-#### Conclusion
-
-* It's great
-* Use wherever possible
-* Do in design not on build
-* Links to talk and resources
-* My social links
-
-#### Questions
+* [Slides website](https://leomeloxp-jam-talk.netlify.com/)
+* [twitter.com/leomeloxp](https://twitter.com/leomeloxp)
+* [github.com/leomeloxp](https://github.com/leomeloxp)
+* [leomeloxp.net](https://leomeloxp.net)
+* [Slides](https://leomeloxp-jam-talk.netlify.com/)
+* [Slides' repo](https://github.com/leomeloxp/jam-stack-talk)
+* [Slides' framework (Eagle.js, Vue based)](https://github.com/Zulko/eagle.js)
+* [Example 1: Rachio website (Gatsby/React Based)](https://rach.io/store/)
+* [Example 2: Page transitions (Vue based, by Sara Drasner)](https://page-transitions.com/)
+* [Example 2's Github repo](https://github.com/sdras/page-transitions-travelapp)
+* [React's home page](https://reactjs.org/)
+* [Gatsby JS](https://www.gatsbyjs.org/)
+* [Next JS](https://nextjs.org/)
+* [Vue's home page](https://vuejs.org/)
+* [Vue Press](https://vuepress.vuejs.org/)
+* [Nuxt](https://nuxtjs.org/)
+* [Jekyll](https://jekyllrb.com/)
+* [Hugo](https://gohugo.io/)
+* [staticgen.com](https://www.staticgen.com/)
+* [Postlight's headless WP starter](https://github.com/postlight/headless-wp-starter)
+* [Netlify CMS](https://www.netlifycms.org/)
+* [Prerender](https://prerender.io/)
 
 ## Build Setup
 
